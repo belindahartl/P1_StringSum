@@ -5,3 +5,6 @@
 3. Handle cases where one or both inputs are invalid (non-natural numbers like "abc", "-5", etc.)
 4. Ensure the sum result is always returned as a string
 5. Refactor code if necessary
+
+GitHub link:
+https://github.com/belindahartl/P1_StringSum.git
